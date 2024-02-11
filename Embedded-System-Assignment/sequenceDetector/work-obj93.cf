@@ -1,0 +1,7 @@
+v 4
+file . "sequence_Test.vhdl" "de1de67d07afc532856426f4e0bfe4902b325976" "20240211031706.271":
+  entity sequence_test at 1( 0) + 0 on 13;
+  architecture testarchitecture of sequence_test at 7( 90) + 0 on 14;
+file . "sequence.vhdl" "08cd8cf2afbca53559a7c5c8204a6597b9329256" "20240211031706.258":
+  entity sequence_detector at 1( 0) + 0 on 11;
+  architecture sequencearchitecture of sequence_detector at 13( 182) + 0 on 12;

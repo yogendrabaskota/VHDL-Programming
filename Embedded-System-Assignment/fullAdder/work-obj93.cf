@@ -1,0 +1,11 @@
+v 4
+file . "FA_Test.vhdl" "255de551e50d1d051d2431a031ba3d6148305c14" "20240211035307.250":
+  entity fatest at 1( 0) + 0 on 49;
+  architecture test of fatest at 7( 74) + 0 on 50;
+file . "fullAdder.vhdl" "671dcaf5f17e0e5cab9eea01c1324efd99bc1b04" "20240211035307.243":
+  entity orgate at 2( 25) + 0 on 43;
+  architecture orarch of orgate at 12( 144) + 0 on 44;
+  entity halfadder at 18( 236) + 0 on 45;
+  architecture half_arch of halfadder at 28( 363) + 0 on 46;
+  entity fulladder at 36( 511) + 0 on 47;
+  architecture faarch of fulladder at 45( 641) + 0 on 48;

@@ -1,0 +1,7 @@
+v 4
+file . "twoToFour_Testbench.vhdl" "43bb211ed307b3df2895d9b58e9907e57e8af1fe" "20240211033024.270":
+  entity twotofourtest at 1( 0) + 0 on 25;
+  architecture twotofourarch of twotofourtest at 9( 151) + 0 on 26;
+file . "twoToFourDecoder.vhdl" "2f84bd6c2c24db4abaf350b75fcbc646eabfb924" "20240211033024.253":
+  entity twotofour at 1( 0) + 0 on 23;
+  architecture testarch of twotofour at 10( 155) + 0 on 24;

@@ -1,0 +1,11 @@
+v 4
+file . "counter_test.vhdl" "4f5c235acdb86442cc80744d75e9959f41a14f3c" "20240211034013.658":
+  entity test_counter at 1( 0) + 0 on 17;
+  architecture test_counter of test_counter at 7( 87) + 0 on 18;
+file . "counter.vhdl" "2d41b020721e45700db83d0f4161ba9aa49c3734" "20240211034013.649":
+  entity counter at 1( 0) + 0 on 11;
+  architecture counterarch of counter at 9( 146) + 0 on 12;
+  entity andg at 28( 557) + 0 on 13;
+  architecture andg_arch of andg at 36( 690) + 0 on 14;
+  entity up_count at 44( 764) + 0 on 15;
+  architecture up_count of up_count at 52( 928) + 0 on 16;
